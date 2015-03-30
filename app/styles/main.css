@@ -35,6 +35,7 @@ h1{
     text-align: right;
     line-height: 270px;
     overflow: hidden;
+    background-clip: border-box;
 
 }
 .row{
