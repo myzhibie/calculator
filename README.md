@@ -7,7 +7,6 @@
   when you download and unzip it you have two choices to run it:<br>
   1.If you have established a [Grunt](http://gruntjs.com/),[nodejs](https://nodejs.org/)and [npm](https://www.npmjs.com/) environment,
   you can run it like this below in node js bash:<br>
-  
   ```Bash
   grunt serve
   ```
