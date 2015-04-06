@@ -97,7 +97,6 @@ angular.module('calculatorApp')
            $scope.operation(a);
            //点击一次运算符之后需要将再次点击运算符的情况忽略掉
            $scope.isOpt=false;
-
        }
        //如果点击的是等于号
        else if(a=="="&&$scope.result!=""&&$scope.result!="error"){
